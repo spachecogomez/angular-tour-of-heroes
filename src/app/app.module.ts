@@ -28,7 +28,6 @@ import { HeroService } from './services/hero.service';
   BrowserModule,
   FormsModule,
   HttpModule,
-  //InMemoryWebApiModule.forRoot(InMemoryDataService),
   AppRoutingModule],
   bootstrap: [AppComponent]
 })
